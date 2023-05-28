@@ -1,0 +1,13 @@
+>> sudo apt update
+
+>> sudo apt install cpu-checker
+
+>> sudo apt install qemu-kvm libvirt-daemon-system virt-manager
+
+>> kvm-ok
+
+>> sudo systemctl is-active libvirtd
+
+>> brctl show
+
+>> virt-manager
